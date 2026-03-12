@@ -51,6 +51,17 @@ Using the `From Base92` operation, we get:
 ### Task 1 is successfully complete!
 
 ## Task 2 - Ciphers
+Note: For this task I will be using [CyberChef](https://gchq.github.io/CyberChef/). Check [this room](https://tryhackme.com/room/cyberchefbasics) out if you don't know how to use CyberChef.
+
+### ❓Question 1:
+
+Guvf vf EBG13, bgurejvfr xabja nf Pnrfre pvcure ebgngrq 13 gvzrf.
+
+### 💡 Hint: ROT13 
+
+Using the `From Binary` operation, we get:
+
+![](5.png)
 Stuff
 ## Task 3 - Hashes
 sth
