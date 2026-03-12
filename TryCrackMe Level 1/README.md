@@ -93,8 +93,11 @@ Using the `ROT8000` operation, we get:
 
 ![](8.png)
 
+### Task 2 is successfully complete!
+
 ## Task 3 - Hashes
-sth
+
+
 ## If you found this useful, go follow me on [TryHackMe](https://tryhackme.com/p/CyberFalcon101) and [Github](https://github.com/CyberFalcon101)
 
 
