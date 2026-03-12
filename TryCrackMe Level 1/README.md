@@ -59,10 +59,40 @@ Guvf vf EBG13, bgurejvfr xabja nf Pnrfre pvcure ebgngrq 13 gvzrf.
 
 ### 💡 Hint: ROT13 
 
-Using the `From Binary` operation, we get:
+Using the `ROT13` operation, we get:
 
 ![](5.png)
-Stuff
+
+### ❓Question 2:
+
+20 8 9 19 15 14 5 9 19 19 15 5 1 19 25 25 15 21 3 1 14 4 15 9 20 23 9 20 8 15 21 20 1 20 15 15 12
+
+### 💡 Hint: A1Z26 Cipher
+
+Using the `A1Z26 Cipher Decode` operation, we get:
+
+![](6.png)
+
+### ❓Question 3:
+
+Mlg z evib xlnnlmob-pmldm xrksvi, yfg hgroo vcrhgh.
+
+### 💡 Hint: Atbash Cipher
+
+Using the `Atbash Cipher` operation, we get:
+
+![](7.png)
+
+### ❓Question 4:
+
+籍籲籭 粂籸籾 籽籱籲籷籴 籽籱籲籼 粀籪籼 籪 籵籪籷籰籾籪籰籮籈
+
+### 💡 Hint: ROT8000
+
+Using the `ROT8000` operation, we get:
+
+![](8.png)
+
 ## Task 3 - Hashes
 sth
 ## If you found this useful, go follow me on [TryHackMe](https://tryhackme.com/p/CyberFalcon101) and [Github](https://github.com/CyberFalcon101)
