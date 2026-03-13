@@ -139,7 +139,9 @@ Copy-paste the hash into the box, pass the captcha test and get the answer:
 
 ![](12.png)
 
-## If you found this useful, go follow me on [TryHackMe](https://tryhackme.com/p/CyberFalcon101) and [Github](https://github.com/CyberFalcon101)
+### And ... Task 3 is successfully complete! Congratulations in completing this room! 🎉
+
+## If you found this useful, go follow me on [TryHackMe](https://tryhackme.com/p/CyberFalcon101) and [Github](https://github.com/CyberFalcon101), and stay updated for TryCrackMe Level 2!
 
 
 Do put this in grey box `Just do this`
